@@ -1,0 +1,43 @@
+
+
+body {
+background-color:#D5E7F5;
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-width: 10px;
+border-color: #53D4CB;
+width: 25%;
+
+
+
+}
+h1{font-family: cursive;
+  color: #3B36FF;
+}
+h2{font-family: cursive;
+  color: #4C4C6D;
+}
+h3{font-family: cursive;
+  color: #315CE8;
+}
+h4{font-family: cursive;
+    color: #4C4C6D;
+}
+h5{font-family: cursive;
+    color: #4C4C6D;
+}
+h6{font-family: cursive;
+    color: #4C4C6D;
+}
+p{font-family: cursive;
+    color: #31BDE8;
+}
+a{font-family: cursive;
+    color: #F38BA0;
+}
+/********************class****************/
+.egg { color: #63C756;
+
+}
